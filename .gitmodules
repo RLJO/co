@@ -1,0 +1,4 @@
+[submodule "Royalline"]
+	path = Royalline
+	url = https://github.com/RLJO/Royalline.git
+	branch = 12.0
